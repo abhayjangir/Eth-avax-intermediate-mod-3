@@ -5,10 +5,10 @@
 
 ## Token Details
 
-- **Name**: MyUniqueToken
-- **Symbol**: MUT
-- **Decimals**: 18
-- **Total Supply**: 1,000,000 MUT (1,000,000 * 10^18)
+- **Name**: AbhayJangir
+- **Symbol**: CKD
+- **Decimals**: 20
+- **Total Supply**: 1,000 CKD (1,000 * 5^20)
 
 ## Deployed Contract Address
 
